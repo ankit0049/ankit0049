@@ -39,10 +39,14 @@ I'm a passionate software developer, focusing on both frontend and backend techn
   - B.Tech in AI & ML (Third Year)
   - Current CGPA: 8.7
 
-## Interests
-- 🌱 Love Farming
-- ♟️ Enjoy playing Chess
+## Interests 
+
+## Interests 
 - 📚 Always learning new technologies
+- ♟️ Enjoy playing Chess
+- 🌱 Love Farming
+
+
 
 ---
 
