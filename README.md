@@ -3,8 +3,8 @@
 ## About Me
 I'm a passionate software developer, focusing on both frontend and backend technologies. I have a keen interest in  ,Backend and AI & ML. Currently, I'm working on a project related to farming, leveraging my skills in web development and exploring machine learning.
 
-- 🔭 I’m currently working on a Farming Project.
-- 🌱 I’m currently learning MongoDB and Python modules like scikit-learn.
+- 🔭 I’m currently working on a Meeting Scheduling Project.
+- 🌱 I’m currently learning NextJs and TypeScript and Python modules like scikit-learn.
 - 💬 Ask me about web development, backend technologies, or AI & ML.
 - 📫 How to reach me: [ankitrajputjii00@gmail.com](mailto:ankitrajputjii00@gmail.com)
 
