@@ -14,10 +14,10 @@ I'm a passionate software developer, focusing on both frontend and backend techn
   
 - Web Technologies & Frameworks: 
   ![Spring Boot](https://img.shields.io/badge/-SpringBoot.java-green?style=flat-square&logo=SpringBoot.java)
-  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
   ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)
+  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
   ![React Router](https://img.shields.io/badge/-React_Router-orange?style=flat-square&logo=react-router)
   ![Material UI](https://img.shields.io/badge/-Material_UI-blue?style=flat-square&logo=material-ui)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-lightblue?style=flat-square&logo=tailwindcss)
